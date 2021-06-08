@@ -548,12 +548,16 @@ body {
     color: #FF0000;
 
 }
-
+.press-quote-n-pic {
+    display: none;
+}
 .press-brand-pic-container {
+
     padding-bottom: 46px;
 }
 
 .press-quote {
+
     font-family: Source Sans Pro, sans-serif;
     font-weight: 400;
     font-size: 22px;
@@ -568,7 +572,10 @@ body {
     background-color: #F5F2EA;
     border: 1px solid #FF0000;
     border-radius: 100%; 
-    
+}
+
+.item-active {
+    background-color: #FF0000;
 }
 
 /* Footer 
